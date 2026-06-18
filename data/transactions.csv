@@ -1,0 +1,18 @@
+Date,Merchant,Category,Amount,Type
+2024-06-01,Employer,Income,2500.00,Income
+2024-06-02,Whole Foods,Groceries,67.43,Expense
+2024-06-03,Netflix,Subscriptions,15.99,Expense
+2024-06-04,Shell,Gas,52.10,Expense
+2024-06-05,Chipotle,Dining,13.75,Expense
+2024-06-07,Landlord,Rent,1200.00,Expense
+2024-06-08,Spotify,Subscriptions,9.99,Expense
+2024-06-10,CVS,Health,24.50,Expense
+2024-06-12,Amazon,Shopping,38.20,Expense
+2024-06-15,Employer,Income,2500.00,Income
+2024-06-16,Trader Joes,Groceries,55.30,Expense
+2024-06-18,Uber,Transport,21.00,Expense
+2024-06-20,PG&E,Utilities,110.00,Expense
+2024-06-22,Starbucks,Dining,6.85,Expense
+2024-06-25,Planet Fitness,Health,24.99,Expense
+2024-06-28,Venmo Friend,Dining,40.00,Expense
+2024-06-30,ATM,Cash,60.00,Expense
